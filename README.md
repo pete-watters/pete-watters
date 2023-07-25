@@ -1,4 +1,6 @@
-### Hi there 👋
+I'm a full stack developer, UX specialist and JavaScript enthusiast.
+
+I'm a crypto advocate and have been working in the industry since 2017
 
 <!--
 **pete-watters/pete-watters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
