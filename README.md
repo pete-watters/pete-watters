@@ -1,6 +1,8 @@
 Developer, UX specialist and JavaScript enthusiast.
 
-Crypto advocate working in the industry since 2017
+Crypto advocate working in the industry since 2017.
+
+Building on Bitcoin at Trust Machines
 
 <!--
 **pete-watters/pete-watters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
