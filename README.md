@@ -1,8 +1,4 @@
-Developer, UX specialist and JavaScript enthusiast.
-
-Crypto advocate working in the industry since 2017.
-
-Building on Bitcoin at Leather Wallet
+Frontend engineer with 15+ years of web development experience and hands-on experience in crypto since 2017. Skilled in JavaScript, React, TypeScript, and frontend architecture, with a focus on building secure, user-friendly Bitcoin and blockchain applications.
 
 <!--
 **pete-watters/pete-watters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
