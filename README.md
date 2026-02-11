@@ -1,16 +1,43 @@
-Frontend engineer with 15+ years of web development experience and hands-on experience in crypto since 2017. Skilled in JavaScript, React, TypeScript, and frontend architecture, with a focus on building secure, user-friendly Bitcoin and blockchain applications.
+Pete Watters
+Senior Frontend Engineer building the future of Bitcoin and Web3.
+Currently at Trust Machines, working on Leather Wallet — the most popular wallet for apps built on Bitcoin. Contributing to open-source infrastructure in the Stacks ecosystem.
+🔨 What I'm building
+Leather Wallet — Bitcoin & Stacks wallet serving 60k+ users
 
-<!--
-**pete-watters/pete-watters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Led the Hiro → Leather rebrand: architected the mono-repo, built the Panda UI design system, delivered the redesigned extension
+Shipped the first Leather mobile app (React Native + Expo) from scratch, growing to 1,850+ MAU in 3 months
+Open-source contributor to leather-io/mono and leather-io/extension
 
-Here are some ideas to get you started:
+🛠 Tech stack
+Frontend: React · TypeScript · Next.js · React Native · Expo
+Web3: Stacks · Bitcoin · Wallet integration · Client-side encryption
+Tooling: Panda CSS · Radix UI · Redux · GraphQL · Cypress · Vitest
+📫 Get in touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Portfolio: petewatters.ie
+LinkedIn: linkedin.com/in/pete-watters
+Email: pete@cteic.ie
+
+✍️ Writing
+I write about Bitcoin, Stacks, and Web3 development on Sigle and petewatters.ie/blog.
+Recent posts:
+
+Building Bitcoin Wallets: Lessons from Leather
+React Native for Web3: Mobile Wallet Development
+Working in the Stacks Ecosystem
+
+🚀 Featured Projects
+Check out some of my work:
+Leather Wallet — Open-source Bitcoin & Stacks wallet serving 60k+ users. Mono-repo architecture with Panda UI design system.
+Personal contributions:
+
+Architected the first mono-repo during the Hiro → Leather rebrand
+Built the Panda UI component package shared across extension and mobile
+Delivered the first Leather mobile app (React Native + Expo) from scratch
+
+
+Previously
+Kraken / Cryptowatch — Sole FE engineer on Coderunner, a trading automation tool for institutional traders. Built the entire frontend in React/TypeScript over 8 months with visibility from Kraken's ex-CEO.
+Xapo — Architected the full-stack blueprint (React/Next.js/Express) adopted across all product teams. Built CI/CD infrastructure from scratch.
+Bank of America Merrill Lynch — Introduced automated acceptance testing (TDD/BDD with Cucumber) to the frontend workflow for the first time.
+Full background: LinkedIn
