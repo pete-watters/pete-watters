@@ -40,11 +40,11 @@ Currently at [Trust Machines](https://trustmachines.co), building [Leather](http
 
 ## Previously
 
-[Qredo](https://qredo.com) — Web3 wallet integration and institutional trading UI
-[Kraken / Cryptowatch](https://kraken.com) — Multi-exchange trading terminal, sole FE on Coderunner trading automation
-[Xapo](https://xapo.com) — Full-stack architecture blueprint adopted company-wide, CI/CD from scratch
-[Bank of America Merrill Lynch](https://bankofamerica.com) — Introduced automated acceptance testing to frontend workflow
-[Fidelity Investments](https://fidelity.com) — Technical lead for offshore development
+- **[Qredo](https://qredo.com)** — Web3 wallet integration and institutional trading UI
+- **[Kraken / Cryptowatch](https://kraken.com)** — Multi-exchange trading terminal, sole FE on Coderunner trading automation
+- **[Xapo](https://xapo.com)** — Full-stack architecture blueprint adopted company-wide, CI/CD from scratch
+- **[Bank of America Merrill Lynch](https://bankofamerica.com)** — Introduced automated acceptance testing to frontend workflow
+- **[Fidelity Investments](https://fidelity.com)** — Technical lead for offshore development
 
 ## Links
 
