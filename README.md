@@ -44,6 +44,5 @@ Currently at [Trust Machines](https://trustmachines.co), building [Leather](http
 ## Links
 
 - [petewatters.ie](https://petewatters.ie) — Portfolio & blog
-- [petewatters.ie/cv](https://petewatters.ie/cv) — CV
 - [LinkedIn](https://www.linkedin.com/in/pete-watters/)
 - [StackOverflow](https://stackoverflow.com/users/1365580/peadar)
