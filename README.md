@@ -14,23 +14,18 @@ Currently at [Trust Machines](https://trustmachines.co), building [Leather](http
 
 ## Notable open-source contributions
 
-**Monorepo architecture for Leather wallet** — Designed the mono-repo that consolidated the browser extension, mobile app, and shared packages into a single repository with automated npm publishing.
-[leather-wallet/mono#8](https://github.com/leather-wallet/mono/pull/8)
-
-**Mnemonic validation on wallet sign-in** — Replaced a single textarea with word-by-word input and real-time BIP-39 validation using `@scure/bip39`. 739 additions across 27 files including new E2E tests.
-[leather-wallet/extension#4243](https://github.com/leather-wallet/extension/pull/4243)
-
-**Full-page container system rebuild** — Replaced the entire drawer and container system with Radix Dialog, unified headers, and standardised viewport widths. ~100 files, 8 bugs fixed.
-[leather-wallet/extension#4655](https://github.com/leather-wallet/extension/pull/4655)
-
-**Modal routing refactor** — Fixed overlay modal routing to properly handle background content, direct navigation, and nested route state in the browser extension.
-[leather-wallet/extension#4325](https://github.com/leather-wallet/extension/pull/4325)
-
-**Spam token filtering** — Added detection and filtering of scam token names containing URLs and phishing text in the wallet's asset list.
-[leather-wallet/extension#4113](https://github.com/leather-wallet/extension/pull/4113)
-
-**Collectibles refactor across monorepo** — Introduced shared `CollectibleView` type, moved UI components into their respective apps, added token detail screens and Send Inscription flow. 5,783 additions.
-[leather-io/mono#1903](https://github.com/leather-io/mono/pull/1903)
+- **Monorepo architecture** — [leather-wallet/mono#8](https://github.com/leather-wallet/mono/pull/8)
+  - Consolidated extension, mobile app, and shared packages into a single repo with automated npm publishing
+- **Mnemonic validation on wallet sign-in** — [leather-wallet/extension#4243](https://github.com/leather-wallet/extension/pull/4243)
+  - Replaced a single textarea with word-by-word input and real-time BIP-39 validation using `@scure/bip39`
+- **Full-page container system rebuild** — [leather-wallet/extension#4655](https://github.com/leather-wallet/extension/pull/4655)
+  - Replaced the entire drawer and container system with Radix Dialog, unified headers, and standardised viewport widths
+- **Modal routing refactor** — [leather-wallet/extension#4325](https://github.com/leather-wallet/extension/pull/4325)
+  - Fixed overlay modal routing to handle background content, direct navigation, and nested route state
+- **Spam token filtering** — [leather-wallet/extension#4113](https://github.com/leather-wallet/extension/pull/4113)
+  - Detection and filtering of scam token names containing URLs and phishing text in the wallet's asset list
+- **Collectibles refactor** — [leather-io/mono#1903](https://github.com/leather-io/mono/pull/1903)
+  - Introduced shared `CollectibleView` type, moved UI components into apps, added token detail screens and Send Inscription flow
 
 ## Tech
 
