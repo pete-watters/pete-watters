@@ -12,6 +12,15 @@ Currently at [Trust Machines](https://trustmachines.co), building [Leather](http
 - Shipped the first **Leather mobile app** (React Native + Expo), growing to 1,850+ MAU in three months
 - Built the DeFi Portfolio UI for on-chain position tracking across Granite and Zest
 
+## Notable open-source contributions
+
+- [**Monorepo creation**](https://github.com/leather-io/mono/pull/1) — Built the Leather monorepo from scratch, unifying extension, mobile, and shared packages
+- [**UI library integration**](https://github.com/leather-io/extension/pull/5544) — Wired the shared `@leather-wallet/ui` component library into the extension (310 files changed)
+- [**Mobile app launch**](https://github.com/leather-io/mono/pull/448) — First production mobile UI — tokens widget in React Native + Expo
+- [**Panda CSS preset**](https://github.com/leather-io/mono/pull/151) — Created the publishable `@leather-wallet/panda-preset` design token package
+- [**Ledger signing fix**](https://github.com/leather-io/extension/pull/5354) — Fixed incorrect BTC amount display for Ledger nonWitnessUtxo transactions
+- [**UTXO consolidation**](https://github.com/leather-io/extension/pull/6085) — Enabled sending BTC to self, unlocking dust UTXO consolidation for users
+
 ## Tech
 
 **Frontend:** React, TypeScript, Next.js, React Native, Expo, Redux, Ember.js
