@@ -12,21 +12,6 @@ Currently at [Trust Machines](https://trustmachines.co), building [Leather](http
 - Shipped the first **Leather mobile app** (React Native + Expo), growing to 1,850+ MAU in three months
 - Built the DeFi Portfolio UI for on-chain position tracking across Granite and Zest
 
-## Notable open-source contributions
-
-- **Monorepo architecture** — [leather-wallet/mono#8](https://github.com/leather-wallet/mono/pull/8)
-  - Consolidated extension, mobile app, and shared packages into a single repo with automated npm publishing
-- **Mnemonic validation on wallet sign-in** — [leather-wallet/extension#4243](https://github.com/leather-wallet/extension/pull/4243)
-  - Replaced a single textarea with word-by-word input and real-time BIP-39 validation using `@scure/bip39`
-- **Full-page container system rebuild** — [leather-wallet/extension#4655](https://github.com/leather-wallet/extension/pull/4655)
-  - Replaced the entire drawer and container system with Radix Dialog, unified headers, and standardised viewport widths
-- **Modal routing refactor** — [leather-wallet/extension#4325](https://github.com/leather-wallet/extension/pull/4325)
-  - Fixed overlay modal routing to handle background content, direct navigation, and nested route state
-- **Spam token filtering** — [leather-wallet/extension#4113](https://github.com/leather-wallet/extension/pull/4113)
-  - Detection and filtering of scam token names containing URLs and phishing text in the wallet's asset list
-- **Collectibles refactor** — [leather-io/mono#1903](https://github.com/leather-io/mono/pull/1903)
-  - Introduced shared `CollectibleView` type, moved UI components into apps, added token detail screens and Send Inscription flow
-
 ## Tech
 
 **Frontend:** React, TypeScript, Next.js, React Native, Expo, Redux, Ember.js
