@@ -15,12 +15,10 @@ Currently at [Trust Machines](https://trustmachines.co), building [Leather](http
 ## Notable open-source contributions
 
 - [**Monorepo creation**](https://github.com/leather-io/mono/pull/1) — Built the Leather monorepo from scratch, unifying extension, mobile, and shared packages
-- [**Mobile app launch**](https://github.com/leather-io/mono/pull/448) — First production mobile UI — tokens widget in React Native + Expo
 - [**Panda CSS preset**](https://github.com/leather-io/mono/pull/151) — Created the publishable `@leather-wallet/panda-preset` design token package
-- [**UI library buildout**](https://github.com/leather-io/mono/pull/175) — Populated `@leather-wallet/ui` with components for React and React Native (98 files, 2,856 additions)
-- [**UI library integration**](https://github.com/leather-io/extension/pull/5544) — Wired the shared UI library into the extension (310 files changed)
-- [**Ledger signing fix**](https://github.com/leather-io/extension/pull/5354) — Fixed incorrect BTC amount display for Ledger nonWitnessUtxo transactions
+- [**UI library setup**](https://github.com/leather-io/mono/pull/161) — Migrated UI components into `@leather-wallet/ui`, establishing the shared component library for React and React Native
 - [**UTXO consolidation**](https://github.com/leather-io/extension/pull/6085) — Enabled sending BTC to self, unlocking dust UTXO consolidation for users
+- **Extension containers** ([#4655](https://github.com/leather-io/extension/pull/4655), [#5715](https://github.com/leather-io/extension/pull/5715)) — Full-page extension views and composable container architecture
 
 ## Tech
 
