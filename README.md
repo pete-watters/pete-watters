@@ -1,6 +1,6 @@
 # Pete Watters
 
-**Senior Frontend Engineer** — Bitcoin, Web3, and high-stakes fintech.
+**Senior Frontend Engineer** — Bitcoin, Web3 and high-stakes fintech.
 
 Currently at [Trust Machines](https://trustmachines.co), building [Leather](https://leather.io) — the leading wallet for Bitcoin and Stacks apps. Open-source contributor to the [Leather mono-repo](https://github.com/leather-io/mono).
 
@@ -14,11 +14,12 @@ Currently at [Trust Machines](https://trustmachines.co), building [Leather](http
 
 ## Notable open-source contributions
 
-- [**Monorepo creation**](https://github.com/leather-io/mono/pull/1) — Built the Leather monorepo from scratch, unifying extension, mobile, and shared packages
-- [**Panda CSS preset**](https://github.com/leather-io/mono/pull/151) — Created the publishable `@leather-wallet/panda-preset` design token package
-- [**UI library setup**](https://github.com/leather-io/mono/pull/161) — Migrated UI components into `@leather-wallet/ui`, establishing the shared component library for React and React Native
-- [**UTXO consolidation**](https://github.com/leather-io/extension/pull/6085) — Enabled sending BTC to self, unlocking dust UTXO consolidation for users
-- **Extension containers** ([#4655](https://github.com/leather-io/extension/pull/4655), [#5715](https://github.com/leather-io/extension/pull/5715)) — Full-page extension views and composable container architecture
+- [**Monorepo creation**](https://github.com/leather-io/mono/pull/1) — Built the Leather monorepo from scratch, unifying extension, mobile and shared packages
+- [**Cross-platform UI library**](https://petewatters.ie/blog/cross-platform-ui-library) — Extended a web-first React UI library to support React Native, shipping the first production mobile screen from shared packages ([PR #161](https://github.com/leather-io/mono/pull/161))
+- [**Extension containers**](https://petewatters.ie/blog/extension-containers) — Three iterations to get container architecture right across popup, full-page and approval contexts ([#4655](https://github.com/leather-io/extension/pull/4655), [#5715](https://github.com/leather-io/extension/pull/5715))
+- [**Branded types for Bitcoin addresses**](https://petewatters.ie/blog/branded-types-crypto-wallet) — Added compile-time safety to the BTC send flow with branded types ([PR #885](https://github.com/leather-io/mono/pull/885))
+- [**Mnemonic validation**](https://petewatters.ie/blog/mnemonic-validation) — Rebuilt seed phrase input with real-time BIP39 validation and library consolidation ([PR #4243](https://github.com/leather-io/extension/pull/4243))
+- [**Sharing code cross-platform**](https://petewatters.ie/blog/sharing-features-extension-mobile) — Refactored the activity feed into a platform-agnostic features package shared by extension and mobile ([PR #1837](https://github.com/leather-io/mono/pull/1837))
 
 ## Tech
 
@@ -37,5 +38,5 @@ Currently at [Trust Machines](https://trustmachines.co), building [Leather](http
 ## Links
 
 - [petewatters.ie](https://petewatters.ie) — Portfolio & blog
-- [LinkedIn](https://www.linkedin.com/in/pete-watters/)
+- [X](https://x.com/petew_btc)
 - [StackOverflow](https://stackoverflow.com/users/1365580/peadar)
