@@ -1,16 +1,15 @@
 # Pete Watters
+Senior Software Engineer — Crypto, Fintech and complex financial products.
 
-**Senior Frontend Engineer** — Bitcoin, Web3 and high-stakes fintech.
-
-Currently at [Trust Machines](https://trustmachines.co), building [Leather](https://leather.io) — the leading wallet for Bitcoin and Stacks apps. Open-source contributor to the [Leather mono-repo](https://github.com/leather-io/mono).
+Currently at [Trust Machines](https://trustmachines.co/), building [Leather](https://leather.io/) — the leading wallet for Bitcoin and Stacks apps. Open-source contributor to the [Leather mono-repo](https://github.com/leather-io/mono).
 
 ## What I'm working on
-
 **Leather Wallet** — Bitcoin & Stacks wallet serving 8,400+ monthly active extension users
 
 - Core team on the Hiro Wallet to Leather rebrand — architected the mono-repo, built the shared Panda UI component library, implemented BIP key validation
-- Shipped the first **Leather mobile app** (React Native + Expo), growing to 1,850+ MAU in three months
+- Shipped the first Leather mobile app (React Native + Expo), growing to 1,850+ MAU in three months
 - Built the DeFi Portfolio UI for on-chain position tracking across Granite and Zest
+- Maintained and extended the Leather wallet provider API, including RPC method implementation and test coverage for programmatic DApp integrations
 
 ## Notable open-source contributions
 
@@ -23,9 +22,10 @@ Currently at [Trust Machines](https://trustmachines.co), building [Leather](http
 
 ## Tech
 
-**Frontend:** React, TypeScript, Next.js, React Native, Expo, Redux, Ember.js
-**Tooling:** Panda CSS, Radix UI, Playwright, Cypress, Vitest, CI/CD
-**Server-side:** Node.js, Express, Python, Ruby
+**Languages & Frameworks:** TypeScript, JavaScript, React, React Native, Next.js, Node.js, Express, Redux, Python, Ruby  
+**Web3 & Crypto:** Bitcoin, Stacks, sBTC, wallet integration, MetaMask, WalletConnect, Wagmi  
+**Tooling & Infrastructure:** CI/CD, Docker, Git, Cypress, Playwright, Maestro, Vitest, TDD
+
 
 ## Previously
 
