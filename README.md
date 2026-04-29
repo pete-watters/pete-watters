@@ -23,7 +23,7 @@ Currently at [Trust Machines](https://trustmachines.co/), building [Leather](htt
 ## Tech
 
 **Languages & Frameworks:** TypeScript, JavaScript, React, React Native, Next.js, Node.js, Express, Redux, Python, Ruby  
-**Web3 & Crypto:** Bitcoin, Stacks, sBTC, wallet integration, MetaMask, WalletConnect, Wagmi  
+**Web3 & Crypto:** Bitcoin, Stacks, sBTC, wallet integration, MetaMask, WalletConnect  
 **Tooling & Infrastructure:** CI/CD, Docker, Git, Cypress, Playwright, Maestro, Vitest, TDD
 
 
