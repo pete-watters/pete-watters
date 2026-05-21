@@ -52,7 +52,7 @@
 
   ## Previously
 
-  [Qredo](https://www.qredo.com) — Web3 Lead Developer · [Kraken · Cryptowatch](https://www.kraken.com) · [Xapo](https://www.xapo.com) · Bank of America · [Fidelity](https://www.fidelity.com)
+  [Qredo](https://www.qredo.com) · [Kraken · Cryptowatch](https://www.kraken.com) · [Xapo](https://www.xapo.com) · [Bank of America](https://www.bankofamerica.com/) · [Fidelity](https://www.fidelity.com)
 
   ## Links
 
