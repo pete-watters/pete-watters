@@ -1,56 +1,59 @@
-# Pete Watters
+  ![Pete Watters — Web3 Engineer](https://petewatters.ie/img/og.png)
 
-**Senior Software Engineer** — Bitcoin, Web3 and high-stakes fintech.
+  # Pete Watters — Web3 Engineer
 
-Currently at [Trust Machines](https://trustmachines.co), building [Leather](https://leather.io) — the leading wallet for Bitcoin and Stacks apps. Open-source contributor to the [Leather mono-repo](https://github.com/leather-io/mono).
+  Front end specialist with an eye for design. Passionate about UX and comfortable
+  across the stack. Building for the web for nearly 20 years — the last decade in crypto.
 
-## What I'm working on
+  🌐 **[petewatters.ie](https://petewatters.ie)** · 🟢 Available for remote work 09/26
 
-**Leather Wallet** — Bitcoin & Stacks wallet serving 8,400+ monthly active extension users
+  ## Now
 
-- Core team on the Hiro Wallet → Leather rebrand — architected the mono-repo, built the shared Panda UI component library, implemented BIP key validation on the mnemonic login form
-- Shipped the Leather mobile app from scratch (React Native + Expo), growing to 1,850+ MAU in three months on iOS and Android
-- Shipped the multi-chain NFT gallery (Stacks SIP-9 + Bitcoin ordinals, including video and audio playback) using an AI-assisted development workflow
-- Early AI-tooling adopter on the team — established working patterns with Claude Code and Codex, contributed to CLAUDE.md and reusable skills
+  **[Leather](https://leather.io)** at **[Trust Machines](https://trustmachines.co)** — an
+  open-source, self-custodial Bitcoin & Stacks wallet. I played a key role in the
+  Hiro → Leather rebrand, set up the monorepo and shared UI packages, and shipped
+  Leather's first-ever mobile app in React Native — launched at BTC Vegas 2025,
+  1,850+ MAU within three months. Trust Machines is a venture studio backing teams
+  building Web3 on Bitcoin; Leather and Granite are its flagship products.
 
-## Notable open-source contributions
+  ## Building
 
-**Monorepo architecture for Leather wallet** — Designed the mono-repo that consolidated the browser extension, mobile app and shared packages into a single repository with automated npm publishing.
-[leather-wallet/mono#8](https://github.com/leather-wallet/mono/pull/8)
+  Products I design and ship end-to-end:
 
-**Mnemonic validation on wallet sign-in** — Replaced a single textarea with word-by-word input and real-time BIP-39 validation using `@scure/bip39`. 739 additions across 27 files including new E2E tests.
-[leather-wallet/extension#4243](https://github.com/leather-wallet/extension/pull/4243)
+  - **Stackr** — a self-custodial cross-chain portfolio terminal (BTC · ETH · SOL · Stacks). Client-side, no backend, custom SVG charts. → [case study](https://petewatters.ie/work/stackr/)
+  - **SimplyFPL** — a real-time Fantasy Premier League product, built solo. Edge-served on Cloudflare Workers + Durable Objects. → [case study](https://petewatters.ie/work/simplyfpl/)
+  - **[petewatters.ie](https://petewatters.ie)** — this site. An Astro PWA with build-time on-chain data (live GitHub graph + Solana-NFT avatar). →
+  [source](https://github.com/pete-watters/portfolio-pwa)
 
-**Full-page container system rebuild** — Replaced the entire drawer and container system with Radix Dialog, unified headers and standardised viewport widths. ~100 files, 8 bugs fixed.
-[leather-wallet/extension#4655](https://github.com/leather-wallet/extension/pull/4655)
+  ## Latest writing
 
-**Modal routing refactor** — Fixed overlay modal routing to properly handle background content, direct navigation and nested route state in the browser extension.
-[leather-wallet/extension#4325](https://github.com/leather-wallet/extension/pull/4325)
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 
-**Spam token filtering** — Added detection and filtering of scam token names containing URLs and phishing text in the wallet's asset list.
-[leather-wallet/extension#4113](https://github.com/leather-wallet/extension/pull/4113)
+  → more at **[petewatters.ie/blog](https://petewatters.ie/blog)**
 
-**Collectibles refactor across monorepo** — Introduced shared `CollectibleView` type, moved UI components into their respective apps, added token detail screens and Send Inscription flow. 5,783 additions.
-[leather-io/mono#1903](https://github.com/leather-io/mono/pull/1903)
+  ## Notable open-source contributions
 
-## Tech
+  - **Monorepo & shared UI packages** — set up `packages/ui` so the extension and mobile app share one component library — [leather-io/mono#161](https://github.com/leather-io/mono/pull/161)
+  - **Cross-platform feature packages** — one feature package serving two surfaces, 152 files — [leather-io/mono#1837](https://github.com/leather-io/mono/pull/1837)
+  - **Full-page view & container rebuild** — drawer system → Radix Dialog, 358 files — [leather-io/extension#4655](https://github.com/leather-io/extension/pull/4655)
+  - **Branded types for Bitcoin addresses** — compile-time address safety, 47 files — [leather-io/mono#885](https://github.com/leather-io/mono/pull/885)
+  - **Secret-key redesign + BIP-39 validation** — word-by-word mnemonic input — [leather-io/extension#4243](https://github.com/leather-io/extension/pull/4243)
+  - **Spam & scam token filtering** — phishing names out of the asset list — [leather-io/extension#4113](https://github.com/leather-io/extension/pull/4113)
+  - **Modal routing refactor** — overlay + nested route state — [leather-io/extension#4325](https://github.com/leather-io/extension/pull/4325)
+  - **UTXO consolidation — the 6-line fix** — +6/−10, the best code you delete — [leather-io/extension#6085](https://github.com/leather-io/extension/pull/6085)
 
-**Front-End:** TypeScript, React, Next.js, React Native, Expo, Redux, HTML5, CSS3, Panda CSS, Radix UI
-**Server-side:** Node.js, Express, Python, Ruby, Shell scripting
-**Web3 & Crypto:** Bitcoin, Stacks, sBTC, wallet integration, MetaMask, WalletConnect
-**Tooling:** CI/CD, Docker, Git, Cypress, Playwright, Maestro, Vitest, TDD, AI-assisted development (Claude Code, Codex)
+  ## Tech
 
-## Previously
+  **Front-end:** TypeScript · React · Next.js · React Native · Expo · Panda CSS · Tailwind · Radix
+  **Across the stack:** Node.js · Cloudflare Workers · Supabase · Python · CI/CD
+  **Web3:** Bitcoin · Stacks · sBTC · Solana · Sui · EVM · viem/wagmi · MetaMask · WalletConnect
+  **Tooling:** Playwright · Maestro · Vitest · TDD · AI-assisted development
 
-- **[Qredo](https://qredo.com)** — Web3 wallet integration and institutional trading UI
-- **[Kraken / Cryptowatch](https://kraken.com)** — Multi-exchange trading terminal, sole FE on Coderunner trading automation
-- **[Xapo](https://xapo.com)** — Full-stack architecture blueprint adopted company-wide, CI/CD from scratch
-- **[Bank of America Merrill Lynch](https://bankofamerica.com)** — Introduced automated acceptance testing to frontend workflow
-- **[Fidelity Investments](https://fidelity.com)** — Technical lead for offshore development
+  ## Previously
 
-## Links
+  [Qredo](https://www.qredo.com) — Web3 Lead Developer · [Kraken · Cryptowatch](https://www.kraken.com) · [Xapo](https://www.xapo.com) · Bank of America · [Fidelity](https://www.fidelity.com)
 
-- [petewatters.ie](https://petewatters.ie) — Portfolio & blog
-- [petewatters.ie/cv/full-stack](https://petewatters.ie/cv/full-stack) — CV
-- [LinkedIn](https://www.linkedin.com/in/pete-watters/)
-- [StackOverflow](https://stackoverflow.com/users/1365580/peadar)
+  ## Links
+
+  [GitHub](https://github.com/pete-watters) · [X](https://x.com/petew_btc) · [LinkedIn](https://www.linkedin.com/in/pete-watters/) · hello@petewatters.ie · [PGP](https://petewatters.ie/pgp.asc)
