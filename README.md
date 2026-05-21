@@ -1,10 +1,5 @@
   ![Pete Watters — Web3 Engineer](https://petewatters.ie/img/og.png)
 
-  # Pete Watters — Web3 Engineer
-
-  Front end specialist with an eye for design. Passionate about UX and comfortable
-  across the stack. Building for the web for nearly 20 years — the last decade in crypto.
-
   🌐 **[petewatters.ie](https://petewatters.ie)** · 🟢 Available for remote work 09/26
 
   ## Now
