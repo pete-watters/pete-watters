@@ -1,6 +1,6 @@
   ![Pete Watters — Web3 Engineer](https://petewatters.ie/img/og.png)
 
-  🌐 **[petewatters.ie](https://petewatters.ie)** · 🟢 Available for remote work 09/26
+  🌐 **[petewatters.ie](https://petewatters.ie)** · 🟢 Available for remote work
 
   ## Now
 
