@@ -6,7 +6,7 @@
 
 Product engineer, 20+ years building for the web and the last decade in fintech and crypto. Frontend specialist, comfortable across the full stack.
 
-Most recently I built LLM usage and cost tooling at **Newcode**, a legal AI workspace: a production usage and cost dashboard across React, Next.js, Python and FastAPI, alongside the testing, review and agent tooling a team needs to ship with coding agents in production.
+Most recently I built LLM usage and cost tooling for a legal AI workspace: a production usage and cost dashboard across React, Next.js, Python and FastAPI, alongside the testing, review and agent tooling a team needs to ship with coding agents in production.
 
 ## Building
 
